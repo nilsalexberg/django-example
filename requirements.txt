@@ -1,0 +1,76 @@
+annotated-types==0.6.0
+asgiref==3.8.1
+audioread==3.0.1
+Brotli==1.1.0
+brotlipy==0.7.0
+certifi==2024.7.4
+cffi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_1b0qzba5nr/croot/cffi_1670423213150/work
+cfgv==3.4.0
+charset-normalizer==3.3.2
+conda==22.11.1
+conda-content-trust @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_0afea0f9-bbf5-446c-8d60-8151cc05b029p0nco1nn/croots/recipe/conda-content-trust_1658126375910/work
+conda-package-handling @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_9an_ntrizz/croot/conda-package-handling_1666940386489/work
+cryptography @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_3evwafgyg8/croot/cryptography_1665612651044/work
+decorator==5.1.1
+distlib==0.3.8
+Django==5.1.1
+einops==0.7.0
+filelock==3.13.1
+fsspec==2023.10.0
+huggingface-hub==0.19.1
+identify==2.6.0
+idna==3.7
+inflect==7.0.0
+Jinja2==3.1.2
+joblib==1.3.2
+lazy_loader==0.3
+librosa==0.10.1
+llvmlite==0.41.1
+MarkupSafe==2.1.3
+mpmath==1.3.0
+msgpack==1.0.7
+mutagen==1.47.0
+networkx==3.2.1
+nodeenv==1.9.1
+numba==0.58.1
+numpy==1.26.2
+packaging==23.2
+platformdirs==4.0.0
+pluggy @ file:///opt/concourse/worker/volumes/live/8277900c-164a-49c8-6f2a-f55c3c0154be/volume/pluggy_1648042581708/work
+pooch==1.8.0
+pre-commit==3.8.0
+progressbar==2.5
+pycosat @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_ebsmghz9nu/croot/pycosat_1666805511853/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pycryptodomex==3.20.0
+pydantic==2.5.0
+pydantic_core==2.14.1
+pyOpenSSL @ file:///opt/conda/conda-bld/pyopenssl_1643788558760/work
+PySocks @ file:///Users/builder/ci_310/pysocks_1642536366386/work
+PyYAML==6.0.1
+regex==2023.10.3
+requests==2.32.3
+rotary-embedding-torch==0.3.5
+ruamel.yaml @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_7de1zqcaou/croot/ruamel.yaml_1666304553877/work
+ruamel.yaml.clib @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_c7s0zxy4t2/croot/ruamel.yaml.clib_1666302244557/work
+safetensors==0.4.0
+scikit-learn==1.3.2
+scipy==1.11.3
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+soundfile==0.12.1
+soxr==0.3.7
+sqlparse==0.5.1
+sympy==1.12
+threadpoolctl==3.2.0
+tokenizers==0.13.3
+toolz @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_a7gkswah88/croot/toolz_1667464082910/work
+torch==2.1.0
+tortoise-tts==3.0.0
+tqdm @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_2adqcbsqqd/croots/recipe/tqdm_1664392689227/work
+transformers==4.31.0
+typing_extensions==4.8.0
+Unidecode==1.3.7
+urllib3==2.2.2
+virtualenv==20.26.4
+websockets==12.0
+yt-dlp @ https://github.com/yt-dlp/yt-dlp/archive/master.tar.gz
